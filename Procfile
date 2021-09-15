@@ -1,1 +1,1 @@
-web: node dq.js
+web: node db.js
